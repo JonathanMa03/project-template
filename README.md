@@ -35,7 +35,7 @@ repo/
 ├── docs/                         
 │   ├── CHANGELOG.md              # Project updates and version history
 │   └── R_git.md              # Quick reference for GitHub Usage
-|   └── R_git.md              # Quick reference for GitHub Usage
+|   └── Python_git.md              # Quick reference for GitHub Usage
 ├── .gitignore                    # Files and folders excluded from Git tracking
 ├── LICENSE                       # Usage license
 └── README.md                     # Project overview 
