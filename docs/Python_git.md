@@ -29,7 +29,7 @@ Open the VS Code terminal (**Terminal → New Terminal**) and run:
 
 ```bash
 cd ~/Documents
-git clone https://github.com/JonathanMa03/innovative-droBVAR
+git clone https://github.com/JonathanMa03/project-name
 cd innovative-droBVAR
 code .
 ```
